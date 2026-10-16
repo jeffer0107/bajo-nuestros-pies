@@ -1,0 +1,8 @@
+BAJO NUESTROS PIES — Autoría: Mora
+
+1. Extraé todo el ZIP en una carpeta.
+2. Abrí bajo-nuestros-pies.html con Chrome, Edge o Firefox.
+3. INICIAR MISIÓN abre el juego incluido; VOLVER A LA PÁGINA regresa al proyecto.
+
+Conservá juntos los archivos y las carpetas. No abras el HTML dentro del ZIP.
+Las tipografías web usan internet; si no hay conexión se utilizan fuentes del sistema.
